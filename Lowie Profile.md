@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Android and MERN**
 
-- 📫 How to reach me **lowie.bg13@gmail.com**
+- 📫 How to reach me **lowe.bg13@gmail.com**
 
 - ⚡ Fun fact **Curious about everything I saw.**
 

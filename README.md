@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
 <h1 align="center">Hi 👋, I'm Lowie</h1>
-<h3 align="center">Hi, I'm Lowie Gonio, A 23 years old self-taught Full Stack Web & Mobile developer 🌈 and a freelance software engineer 👨🏻‍💻 from Philippines 🇵🇭. My passion for software lies with dreaming up ideas 🚀 and making them come true with elegant interfaces📱. I take great care in the experience 🤩, architecture 🤖, and code quality 💯 of the things I build 🛠.</h3>
+<h3 align="center">Hi, I'm Lowie Gonio, A 24 years old self-taught Full Stack Web & Mobile developer 🌈 and a freelance software engineer 👨🏻‍💻 from Philippines 🇵🇭. My passion for software lies with dreaming up ideas 🚀 and making them come true with elegant interfaces📱. I take great care in the experience 🤩, architecture 🤖, and code quality 💯 of the things I build 🛠.</h3>
 
 <br />
 <br />

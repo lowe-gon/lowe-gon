@@ -7,9 +7,9 @@
 <br />
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" />
 
-- 🔭 I’m currently working on **Android and Web development**
+- 🔭 I’m currently working on **Mobile and Web development**
 
-- 🌱 I’m currently learning **MERN and Python**
+- 🌱 I’m currently learning **React Native & NextJS**
 
 - 💬 Ask me about **Android and MERN**
 

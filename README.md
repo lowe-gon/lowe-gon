@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **MERN and Python**
 
-- 👯 I’m looking to collaborate on **Blockchain**
-
 - 💬 Ask me about **Android and MERN**
 
 - 📫 How to reach me **lowe.bg13@gmail.com**
